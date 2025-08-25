@@ -27,8 +27,8 @@ IMDB Streaming Search is an application that helps you easily find where shows o
 - **Deployment:** Vercel
 
 ## Screenshots
-![Home Page](.\screenshots\HomePage.png)
-![Search Example](.\screenshots\SearchExample.png)
+![Home Page](./screenshots/HomePage.png)
+![Search Example](./screenshots/SearchExample.png)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
