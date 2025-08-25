@@ -13,13 +13,21 @@ IMDB Streaming Search is an application that helps you easily find where shows o
 
 ## Installation / Setup
 1. Clone the repository:
-    ```bash git clone https://github.com/Evres-sys/Hackathon-IMDB-Project.git```
+    ```bash 
+    git clone https://github.com/Evres-sys/Hackathon-IMDB-Project.git
+    ```
 2. Navigate into the project folder:
-    ```cd Hackathon-IMDB-Project```
+    ```bash
+    cd Hackathon-IMDB-Project
+    ```
 3. Install dependencies:
-    ```npm install```
+    ```bash
+    npm install
+    ```
 4. Start the development server:
-    ```npm start```
+    ```bash
+    npm start
+    ```
 
 ## Tech Stack
 - **Frontend:** React, Tailwind CSS
